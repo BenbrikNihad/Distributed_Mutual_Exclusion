@@ -1,0 +1,17 @@
+
+build/
+dist/
+out/
+*.class
+nbproject/private/
+nbproject/build-impl.xml
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.idea/
+*.iml
